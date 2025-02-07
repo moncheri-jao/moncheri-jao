@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: gli n mangmgiano la mermnda x rimangmere di kuel colore 😳😳😳😳
 -->
 ### :hammer_and_wrench: Tools I use:
+<br/>
 <div>
         <code><img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/></code>
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/></code>
 </div>
+<br/>
 <div>
 	Tools I want to learn:<br/>
 	<code><img height="40" src="./icons/cpp.png" alt="C++"></code>
