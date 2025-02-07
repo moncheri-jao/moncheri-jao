@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/></code>
 </div>
 <br/>
-Tools I want to learn:
+### 📖 Tools I want to learn:
 <br/>
 <div>
 	<code><img height="40" src="./icons/cpp.png" alt="C++"></code>
