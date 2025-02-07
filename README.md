@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 ### :hammer_and_wrench: Tools I use:
 <div>
-    <ul>
         <code><img src="/icons/latex-original.png" title="LaTeX2e" alt="LaTeX" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></code>
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></code>
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/></code>
-        </ul>
 </div>
 <div>
 	Tools I want to learn:<br/>
